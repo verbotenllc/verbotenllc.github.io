@@ -1,2 +1,1 @@
-# verbotenllc.github.io
 Homepage
